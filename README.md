@@ -1,4 +1,5 @@
 # dtrbinh
+![image](https://github.com/dtrbinh/HTTP-Flood-DDoS/blob/703096a58723ce0d97fc9d5be980a4e9cee82956/img/image.png)
 
 Script này dùng để DDOS một trang web bằng phương pháp HTTP Flood.
 
