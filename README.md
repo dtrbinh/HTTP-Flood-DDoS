@@ -13,7 +13,9 @@ Mở CMD quyền admin:
   
 Hoặc:
   - Tạo file txt.
-  - Nhập:   pushd <đường dẫn đến file tải về đã giải nén>
+  - Nhập:  
+  
+            pushd <đường dẫn đến file tải về đã giải nén>
  
             pip install requirements.txt
             
