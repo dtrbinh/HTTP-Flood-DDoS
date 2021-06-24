@@ -14,8 +14,10 @@ Mở CMD quyền admin:
 Hoặc:
   - Tạo file txt.
   - Nhập:   pushd <đường dẫn đến file tải về đã giải nén>
-           pip install requirements.txt
-           py dtrbinh.py
+ 
+            pip install requirements.txt
+            
+            py dtrbinh.py
   - Lưu lại với đuôi .cmd
 
 Lưu ý: pip install [file name] nếu thiếu module nào.
