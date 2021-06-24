@@ -1,4 +1,5 @@
-#dtrbinh
+# dtrbinh
+
 Script này dùng để DDOS một trang web bằng phương pháp HTTP Flood.
 
 Hãy chịu trách nhiệm khi sử dụng nó!
