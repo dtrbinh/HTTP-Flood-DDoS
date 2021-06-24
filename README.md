@@ -28,7 +28,7 @@ Hoặc:
 
 Lưu ý: nếu báo lỗi thiếu module
 
-        pip install [file name]
+        pip install [module name]
 
 ___
 # Important!!!
