@@ -36,6 +36,6 @@ ___
 This script is for educational purposes only. I am not responsible for the damage you cause while using this script!
 
 Based on Python 3.9.5.
-
 ___
-
+# © Copyright 2021 - Đỗ Trần Bình(dtrbinh)
+___
