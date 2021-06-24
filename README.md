@@ -5,7 +5,7 @@ Script này dùng để DDOS một trang web bằng phương pháp HTTP Flood.
 
 Hãy chịu trách nhiệm khi sử dụng nó!
 
-### SETUP:
+## SETUP:
 
 Mở CMD quyền admin:
 
@@ -30,7 +30,7 @@ Lưu ý: nếu báo lỗi thiếu module
 
         pip install [module name]
 
-### Important!!!
+## Important!!!
 
 This script is for educational purposes only. I am not responsible for the damage you cause while using this script!
 
