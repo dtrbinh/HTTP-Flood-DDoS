@@ -26,7 +26,9 @@ Hoặc:
         py dtrbinh.py
   - Lưu lại với đuôi .cmd
 
-Lưu ý: pip install [file name] nếu thiếu module nào.
+Lưu ý: nếu báo lỗi thiếu module
+
+        pip install [file name]
 
 ___
 # Important!!!
