@@ -7,13 +7,9 @@ Hãy chịu trách nhiệm khi sử dụng nó!
 # SETUP:
 
 Mở CMD quyền admin:
-
-  pushd đến thư mục lưu file
-  
-  pip install requirements.txt
-  
-  py dtrbinh.py
-  
+  - pushd đến thư mục lưu file
+  - pip install requirements.txt
+  - py dtrbinh.py
   
 Hoặc:
   - Tạo file txt.
